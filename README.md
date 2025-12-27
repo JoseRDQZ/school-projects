@@ -11,6 +11,8 @@ This repository is an index of my computer science coursework repositories, orga
 - (links will be added)
 
 ### COP 4610
+
+### Homework
 - [HW1 – Student Data Processor](https://github.com/JoseRDQZ/cop4610-hw1)
 - [HW2 – Creating Static Library](https://github.com/JoseRDQZ/cop4610-hw2)
 - [HW3 – Process Controller](https://github.com/JoseRDQZ/cop4610-hw3)
@@ -19,6 +21,8 @@ This repository is an index of my computer science coursework repositories, orga
 - [HW6 – Round Robin Scheduler](https://github.com/JoseRDQZ/cop4610-hw6)
 - [HW7 – Multi-Threaded Number Processing Pipeline using Synchronization Primitives](https://github.com/JoseRDQZ/cop4610-hw7)
 - [HW8 – Implementation of FIFO and Second Chance Page Replacement Algorithms](https://github.com/JoseRDQZ/cop4610-hw8)
+
+### Assignments
 - [A1 – Kernel Data Structures Implementation](https://github.com/JoseRDQZ/cop4610-a1)
 - [A2 – Multi-Threaded TCP Client-Server](https://github.com/JoseRDQZ/cop4610-a2)
 - [A3 – CPU Scheduling Algorithms Implementation](https://github.com/JoseRDQZ/cop4610-a3)
