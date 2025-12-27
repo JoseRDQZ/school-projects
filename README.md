@@ -12,6 +12,7 @@ This repository is an index of my computer science coursework repositories, orga
 
 ### COP 4610
 - [HW1 – Student Data Processor](https://github.com/JoseRDQZ/cop4610-hw1)
+- [HW2 – Creating Static Library](https://github.com/JoseRDQZ/cop4610-hw2)
 
 ## Notes
 - This repo contains links only (no assignment solutions or restricted course materials).
