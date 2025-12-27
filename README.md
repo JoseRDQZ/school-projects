@@ -11,7 +11,7 @@ This repository is an index of my computer science coursework repositories, orga
 - (links will be added)
 
 ### COP 4610
-- (links will be added)
+- [HW1 – Student Data Processor](https://github.com/JoseRDQZ/cop4610-hw1)
 
 ## Notes
 - This repo contains links only (no assignment solutions or restricted course materials).
