@@ -18,6 +18,7 @@ This repository is an index of my computer science coursework repositories, orga
 - [HW5 – FCFS CPU Scheduler](https://github.com/JoseRDQZ/cop4610-hw5)
 - [HW6 – Round Robin Scheduler](https://github.com/JoseRDQZ/cop4610-hw6)
 - [HW7 – Multi-Threaded Number Processing Pipeline using Synchronization Primitives](https://github.com/JoseRDQZ/cop4610-hw7)
+- [HW8 – Implementation of FIFO and Second Chance Page Replacement Algorithms](https://github.com/JoseRDQZ/cop4610-hw8)
 
 ## Notes
 - This repo contains links only (no assignment solutions or restricted course materials).
