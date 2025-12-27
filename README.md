@@ -17,6 +17,7 @@ This repository is an index of my computer science coursework repositories, orga
 - [HW4 – TCP Command Server with Process Management](https://github.com/JoseRDQZ/cop4610-hw4)
 - [HW5 – FCFS CPU Scheduler](https://github.com/JoseRDQZ/cop4610-hw5)
 - [HW6 – Round Robin Scheduler](https://github.com/JoseRDQZ/cop4610-hw6)
+- [HW7 – Multi-Threaded Number Processing Pipeline using Synchronization Primitives](https://github.com/JoseRDQZ/cop4610-hw7)
 
 ## Notes
 - This repo contains links only (no assignment solutions or restricted course materials).
