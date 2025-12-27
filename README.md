@@ -23,6 +23,7 @@ This repository is an index of my computer science coursework repositories, orga
 - [A2 – Multi-Threaded TCP Client-Server](https://github.com/JoseRDQZ/cop4610-a2)
 - [A3 – CPU Scheduling Algorithms Implementation](https://github.com/JoseRDQZ/cop4610-a3)
 - [A4 – Banker's Algorithm Implementation for Deadlock Avoidance](https://github.com/JoseRDQZ/cop4610-a4)
+- [BA –Contiguous Memory Allocation (First-Fit, Best-Fit, Worst-Fit) with Memory Coalescing](https://github.com/JoseRDQZ/cop4610-bonus)
 
 ## Notes
 - This repo contains links only (no assignment solutions or restricted course materials).
