@@ -19,7 +19,7 @@ This repository is an index of my computer science coursework repositories, orga
 - [HW2 – Graph Scheduling & Routing](https://github.com/JoseRDQZ/cop4534-hw2)
 - [HW3 – Sudoku Solver & Scheduler](https://github.com/JoseRDQZ/cop4534-hw3)
 - [HW4 – Matrix & Word Lookup Algorithms](https://github.com/JoseRDQZ/cop4534-hw4)
-
+- [HW5 – Inventory Optimizer + Freight Routing](https://github.com/JoseRDQZ/cop4534-hw5)
 
 ### COP 4610
 
