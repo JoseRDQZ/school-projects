@@ -8,6 +8,7 @@ This repository is an index of my computer science coursework repositories, orga
 
 ### Homework
 - [HW1 – Puzzle Solver](https://github.com/JoseRDQZ/cai4002-puzzlesolver)
+- [HW2 – Tic-Tac-Toe Game With AI](https://github.com/JoseRDQZ/cai4002-tictactoe)
 
 ### COP 4534
 - (links will be added)
