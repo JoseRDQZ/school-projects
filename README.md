@@ -13,7 +13,9 @@ This repository is an index of my computer science coursework repositories, orga
 - [HW4 – Machine Learning](https://github.com/JoseRDQZ/cai4002-machinelearning)
 
 ### COP 4534
-- (links will be added)
+
+### Homeworks
+- [HW1 – Search & Graph Problems](https://github.com/JoseRDQZ/cop4534-hw1)
 
 ### COP 4610
 
