@@ -10,6 +10,7 @@ This repository is an index of my computer science coursework repositories, orga
 - [HW1 – Puzzle Solver](https://github.com/JoseRDQZ/cai4002-puzzlesolver)
 - [HW2 – Tic-Tac-Toe Game With AI](https://github.com/JoseRDQZ/cai4002-tictactoe)
 - [HW3 – Data Mining (Apriori & Association Rules)](https://github.com/JoseRDQZ/cai4002-datamining)
+- [HW4 – Machine Learning](https://github.com/JoseRDQZ/cai4002-machinelearning)
 
 ### COP 4534
 - (links will be added)
