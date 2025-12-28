@@ -5,7 +5,9 @@ This repository is an index of my computer science coursework repositories, orga
 ## Courses
 
 ### CAI 4002
-- (links will be added)
+
+### Homework
+- [HW1 – Puzzle Solver](https://github.com/JoseRDQZ/cai4002-puzzlesolver)
 
 ### COP 4534
 - (links will be added)
